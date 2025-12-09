@@ -16,13 +16,7 @@
 git clone https://github.com/RifitGG/Practical-tasks-UP.01
 cd data-structures-practice
 ```
-
-### Установка зависимостей
-```bash
-# Для конвертации в Word (опционально)
-pip install python-docx
-```
-
+---
 ### Запуск заданий
 ```bash
 # Запуск конкретного задания
